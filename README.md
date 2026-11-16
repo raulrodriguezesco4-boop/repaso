@@ -2,9 +2,7 @@
 
 
 
-Este repositorio contiene la documentación de un proyecto de desarrollo de software.
-
-
+Este proyecto reúne documentación y recursos para aprender desarrollo de software.
 
 \## Herramientas utilizadas
 
